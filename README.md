@@ -1,4 +1,4 @@
-# Grover-s-Algorithm-Quantum-Computing
+# Grover's-Algorithm-Quantum-Computing
 
 Implementation of Grover’s algorithm by using amplitude amplification, and analysis of the performance of the algorithm.
 
